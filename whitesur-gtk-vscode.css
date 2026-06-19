@@ -4,7 +4,7 @@
     display: flex; /* 确保Flex布局（关键） */
     justify-content: space-around; /* 均匀分配：左右留白 + 按钮间间距一致 */
     align-items: center; /* 垂直居中按钮 */
-    padding: 0 8px; /* 左右留白各4px（可按需调整，数值越大左右留白越宽） */
+    padding: 0 5px; /* （可按需调整，数值越大左右留白越宽） */
     margin: 0; /* 清除容器默认外边距 */
 }
 

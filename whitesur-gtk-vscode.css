@@ -1,6 +1,6 @@
 /* Window Control Icons */
 .monaco-workbench:not(.web):not(.mac) .part.titlebar .window-controls-container {
-    width: calc(72px / var(--zoom-factor, 1));
+    width: calc(72px / var(--zoom-factor, 1)) !important;
     display: flex;
     justify-content: space-around;
     align-items: center;
